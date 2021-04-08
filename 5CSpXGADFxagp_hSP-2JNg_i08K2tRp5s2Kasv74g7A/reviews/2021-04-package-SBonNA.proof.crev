@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-04-08T22:51:18.429662876+01:00"
+from:
+  id-type: crev
+  id: 5CSpXGADFxagp_hSP-2JNg_i08K2tRp5s2Kasv74g7A
+  url: "https://github.com/andrewaylett/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: thiserror
+  version: 1.0.24
+  revision: 1b0a84996b9492c0dc5779127a91c930f23a259e
+  digest: P4iGIohEVoWwVuYSR_tP_cJYIppvxkXY58j5m_0gbH0
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  This crate contains little implementation, reviewing the impl crate would be a lot more effort.
+----- SIGN CREV PROOF -----
+ygXZRUxt-c5MAOjaGPqjRwb63D2cBM_NBgWNAkl34CwOneC4DLtlHCzdo51AJFgJ85jeKT0kvn_eMRKnsoLNCQ
+----- END CREV PROOF -----
+
