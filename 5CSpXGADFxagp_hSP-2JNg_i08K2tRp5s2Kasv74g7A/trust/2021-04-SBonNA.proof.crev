@@ -13,3 +13,19 @@ trust: medium
 V5XYvgbzV5X-p2b3et8roJVtFQibf3IoIMLzAkHy1VUSj45kLJLTVoSGaSazuBM36pI78APtCzA-o8xy59owBg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-04-08T22:37:58.526876992+01:00"
+from:
+  id-type: crev
+  id: 5CSpXGADFxagp_hSP-2JNg_i08K2tRp5s2Kasv74g7A
+  url: "https://github.com/andrewaylett/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+trust: medium
+----- SIGN CREV PROOF -----
+Abh_N0PHjdpzeZmB7AYM03LYp-HpEFswQBCFo6_8jM5k-8dnI0jlnj4kxqiJ2KEvMrTd1Bl4TIX35X_Sh3tMCw
+----- END CREV PROOF -----
+
