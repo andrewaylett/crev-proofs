@@ -22,3 +22,32 @@ comment: |-
 ygXZRUxt-c5MAOjaGPqjRwb63D2cBM_NBgWNAkl34CwOneC4DLtlHCzdo51AJFgJ85jeKT0kvn_eMRKnsoLNCQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-04-08T23:25:56.485847153+01:00"
+from:
+  id-type: crev
+  id: 5CSpXGADFxagp_hSP-2JNg_i08K2tRp5s2Kasv74g7A
+  url: "https://github.com/andrewaylett/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: atty
+  version: 0.2.14
+  revision: 7b5df17888997d57c2c1c8f91da1db5691f49953
+  digest: WJaqS5xu6ORo2px2Rku1ynYYN4TuCdxeS8LR68ngyw4
+package-diff-base:
+  source: "https://crates.io"
+  name: atty
+  version: 0.2.11
+  digest: IwadPdk3T66OrNm51-txa1rfjqR6h767hfMx0MM3HJo
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Code changes are minimal and sensible.
+----- SIGN CREV PROOF -----
+MxLORyTD1zg0lehfX7uHP9n6cbwjaOi7wM-Bh0vknbg-ggyrrf50nyrHiXGyyL2_x3pBSUWbVNuivDEouZCiDQ
+----- END CREV PROOF -----
+
