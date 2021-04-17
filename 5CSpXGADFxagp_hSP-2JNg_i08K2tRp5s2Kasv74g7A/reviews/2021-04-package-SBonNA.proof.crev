@@ -51,3 +51,33 @@ comment: |-
 MxLORyTD1zg0lehfX7uHP9n6cbwjaOi7wM-Bh0vknbg-ggyrrf50nyrHiXGyyL2_x3pBSUWbVNuivDEouZCiDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-04-17T18:19:48.269363110+01:00"
+from:
+  id-type: crev
+  id: 5CSpXGADFxagp_hSP-2JNg_i08K2tRp5s2Kasv74g7A
+  url: "https://github.com/andrewaylett/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: bitflags
+  version: 1.2.1
+  revision: 30668016aca6bd3b02c766e8347e0b4080d4c296
+  digest: hBS4g5BS-KTQA2baui1uKXks2SuPnFM1dqdCnmPLxNI
+package-diff-base:
+  source: "https://crates.io"
+  name: bitflags
+  version: 1.1.0
+  revision: fffdfe8379a745c88d6cbc17b4454789b499ee56
+  digest: ANh68S-S2vsKWJFqICgFjYMGmpAyZxAiVlAuAA2w_Nc
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  Line ending fixes and a new function
+----- SIGN CREV PROOF -----
+dl9B-FEuzZjvOZ0i5dmPBFzSfaqV5hcWrQ4ANZroqrJjULxUx7FON0I2q40dMywRGehiypMknzcxiRZ7YnjCCg
+----- END CREV PROOF -----
+
